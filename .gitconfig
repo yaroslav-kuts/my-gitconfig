@@ -1,0 +1,5 @@
+[user]
+	email = yaroslavkuts@gmail.com
+	name = zzzonked
+[alias]
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
